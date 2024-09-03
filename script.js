@@ -1,5 +1,7 @@
+v
+
 function jogar(celula){
     if(celula.innerHTML){
-        celula.innerHTML = joga
+        celula.innerHTML = jogador
     }
 }
